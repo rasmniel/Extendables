@@ -4,7 +4,6 @@
   "description": "Adobe InDesign Tooling library",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rasmniel/Extendables"
-  },
-  "license": "MIT"
+    "url": "https://github.com/debrouwere/Extendables"
+  }
 }
