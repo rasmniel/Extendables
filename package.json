@@ -1,0 +1,10 @@
+{
+  "name": "Extendables",
+  "version": "1.0.0",
+  "description": "Adobe InDesign Tooling library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rasmniel/Extendables"
+  },
+  "license": "MIT"
+}

@@ -8,3 +8,4 @@ core-packages/*/doc/jsdoc
 *.old
 *.orig
 *(Autosaved)*
+.idea
